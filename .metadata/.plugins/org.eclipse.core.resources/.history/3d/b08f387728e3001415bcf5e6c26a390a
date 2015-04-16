@@ -1,0 +1,10 @@
+package generics;
+
+public class SimpleGenerics {
+	
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package generics;
+
+public class SimpleGenerics {
+	
+	public void print(){
+		
+	}
+	
+	public static void main(String[] args) {
+		SimpleGenerics sg = new SimpleGenerics();
+		Integer i [] = new Integer[10];
+		i = {1,1,1,1,1,1,11,1,1,1};
+		sg.print();
+	}
+
+}

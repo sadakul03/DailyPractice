@@ -1,0 +1,21 @@
+package org.cuet;
+
+public class AllPermutation {
+	
+	public void sqap(){
+		
+	}
+	
+	public void permute(Char chArr[],int i, int n){
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		AllPermutation ap = new AllPermutation();
+		String inputStr = "123";
+		ap.permute(inputStr.toCharArray(),0,inputStr.length());
+	}
+	
+
+}

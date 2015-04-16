@@ -1,0 +1,14 @@
+package generics;
+
+public class SimpleGenerics {
+	
+	public void print(){
+		
+	}
+	
+	public static void main(String[] args) {
+		SimpleGenerics sg = new SimpleGenerics();
+		sg.print();
+	}
+
+}

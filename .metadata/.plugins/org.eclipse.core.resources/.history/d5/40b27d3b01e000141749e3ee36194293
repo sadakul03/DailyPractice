@@ -1,0 +1,11 @@
+package org.cuet;
+
+public class AllPermutation {
+	
+	
+	public void permute(){
+		
+	}
+	
+
+}

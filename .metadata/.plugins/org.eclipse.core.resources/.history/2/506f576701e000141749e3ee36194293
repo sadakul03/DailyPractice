@@ -1,0 +1,17 @@
+package org.cuet;
+
+public class AllPermutation {
+	
+	
+	public void permute(String str){
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		AllPermutation ap = new AllPermutation();
+		ap.permute("123");
+	}
+	
+
+}
