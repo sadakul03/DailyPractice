@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filesystem>
+  <object name='file1'>
+    <acl>
+      <ace subject='bob' rights='rwo'/>
+      <ace subject='jill' rights='a'/>
+    </acl>
+  </object>
+
+  <object name='file2'>
+    <acl>
+      <ace subject='bob' rights='r'/>
+      <ace subject='jill' rights='o'/>      
+    </acl>
+  </object>
+
+  <object name='file3'>
+    <acl>
+      <ace subject='bob' rights='rweo'/>
+      <ace subject='jill' rights='r'/>    
+    </acl>
+  </object>
+
+  <object name='file4'>
+    <acl>
+      <ace subject='jill' rights='rweo'/>
+    </acl>
+  </object>
+</filesystem>
